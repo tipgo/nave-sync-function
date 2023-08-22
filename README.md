@@ -1,1 +1,1 @@
-# nave-sync-function
+# nuvei-sync-function
